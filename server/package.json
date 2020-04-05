@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "RestaurantProject",
+  "description": "GarageProject",
   "keywords": [
     "loopback-application",
     "loopback"
